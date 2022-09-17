@@ -1,0 +1,26 @@
+@media only screen and (max-width : 1199px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 568px) {
+    .logo {
+        width: 220px;
+        max-width: 100%;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 360px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 319px) {
+}
